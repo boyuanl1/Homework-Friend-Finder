@@ -1,8 +1,8 @@
-var friends = [{"name":"Ahmed","photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg","scores":["5","1","4","4","5","1","2","5","4","1"]},
-               {"name":"Jacob Deming","photo":"https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg","scores":["4","2","5","1","3","2","2","1","3","2"]},
-               {"name":"Jeremiah Scanlon","photo":"https://avatars2.githubusercontent.com/u/8504998?v=3&s=460","scores":["5","2","2","2","4","1","3","2","5","5"]},
-               {"name":"Louis T. Delia","photo":"https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg","scores":["3","3","4","2","2","1","3","2","2","3"]},
-               {"name":"Lou Ritter","photo":"https://m.facebook.com/photo.php?fbid=10208500699025296&id=1542229019&set=a.1549418665704.77596.1542229019&source=11","scores":["4","3","4","1","5","2","5","3","1","4"]},
-               {"name":"Jordan Biason","photo":"https://scontent-ord1-1.xx.fbcdn.net/v/t1.0-9/12741971_10205764267089153_4212986785721953092_n.jpg?oh=4e18265f7d380167223a97fbd7eba278&oe=57B78445","scores":["4","4","2","3","2","2","3","2","4","5"]}];
+var friends = [{"name":"Brad","photo":"http://media.tmz.com/2016/09/22/0921-brad-pitt-getty-5.jpg","scores":["5","1","4","4","5","1","2","5","4","1"]},
+               {"name":"Jim","photo":"http://pixel.nymag.com/imgs/daily/vulture/2014/05/02/magazine/02-jim-parsons-1.nocrop.w529.h777.jpg","scores":["4","2","5","1","3","2","2","1","3","2"]},
+               {"name":"Eric","photo":"https://vignette.wikia.nocookie.net/southpark/images/c/c4/Eric-cartman.png/revision/latest/scale-to-width-down/310?cb=20170725145350","scores":["5","2","2","2","4","1","3","2","5","5"]},
+               {"name":"Tyler","photo":"https://s.yimg.com/uu/api/res/1.2/DrpJzs4ocCtQIxtkh4HE9A--/aD0xMzYzO3c9MjA0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/http://l.yimg.com/os/publish-images/tv/2014-11-07/e294e500-66b5-11e4-8e22-4d84734519cf_abc-modern-family-608-three-turkeys-0389.jpg","scores":["3","3","4","2","2","1","3","2","2","3"]},
+               {"name":"Bob","photo":"https://i.pinimg.com/736x/ee/94/62/ee9462aafc151e9a57f4f32d4fd9e1dd--cute-minions-minions-minions.jpg","scores":["4","3","4","1","5","2","5","3","1","4"]},
+               {"name":"Gru","photo":"https://cdn.europosters.eu/image/750/posters/despicable-me-2-gru-and-minions-i14553.jpg","scores":["4","4","2","3","2","2","3","2","4","5"]}];
 
 module.exports = friends;
